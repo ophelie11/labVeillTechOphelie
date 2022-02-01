@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/</link>
+    <description>Recent content on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 11:06:48 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing the Future : 2021 UX/UI Design Trends</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post1/</link>
+      <pubDate>Mon, 24 Jan 2022 11:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post1/</guid>
+      <description>Cet article parle des habitudes des gens qui ont changé avec le covid, comme l’accélération de la digitalisation, des habitudes plus saines, de nouveaux rituels, etc. Mais il nous parle surtout des tendances de design qui ont été observées pour 2021.</description>
+    </item>
+    
+    <item>
+      <title>7 leçons de marketing tirées des études d’eye-tracking</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post2/</link>
+      <pubDate>Sun, 23 Jan 2022 15:06:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post2/</guid>
+      <description>Cet article est à nouveau structuré sous forme de liste et d’astuces à ne pas oublier. Je trouve ceci intéressant, car il regroupe des points importants pour la conception d’interface tout en y intégrant une dimension marketing.</description>
+    </item>
+    
+    <item>
+      <title>Figma VS Penpot</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post5/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:01 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post5/</guid>
+      <description>Cet article est un peu différent des autres, car ce n&amp;rsquo;est pas le résumé d&amp;rsquo;un article que j&amp;rsquo;ai pu lire mais plutôt le rapport d&amp;rsquo;une expérience réalisée dans le domaine des confections d&amp;rsquo;interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Femke van Schoonhoven – whiteboarding challenge</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post4/</link>
+      <pubDate>Thu, 15 Jul 2021 15:40:55 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post4/</guid>
+      <description>Cette vidéo nous parle du whiteboarding UX challenge comment Femke approche ces derniers. Dans sa vidéo, elle nous parle des étapes par lesquelles passer. J’ai décidé de résumer les points qui me semblaient les plus importants afin de pouvoir les garder facilement sous la main.</description>
+    </item>
+    
+    <item>
+      <title>Just in mind – The ultimate guide to prototyping</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post3/</link>
+      <pubDate>Wed, 14 Jul 2021 15:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post3/</guid>
+      <description>Cet article nous détaille en plusieurs chapitres, le processus de prototyping, ces différentes formes, les choses à effectuer en amont et quelques outils. Il nous donne également des exemples afin de rendre le guide encore plus intéressant.</description>
+    </item>
+    
+    <item>
+      <title>Je suis Ophélie, une étudiante en ingénierie des médias</title>
+      <link>https://demo.gethugothemes.com/techfeed/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/about/</guid>
+      <description>Ce blog a été réalisé dans le cadre du cours LabVeillTech de la filière ingénierie des médias à la Heig-vd. Il résulte d’un travail de veille sur l’UX/UI et plus précisément sur la conception d’interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Me contacter</title>
+      <link>https://demo.gethugothemes.com/techfeed/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

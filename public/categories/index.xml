@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/categories/</link>
+    <description>Recent content in Categories on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jan 2022 11:06:48 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tendances</title>
+      <link>https://demo.gethugothemes.com/techfeed/categories/tendances/</link>
+      <pubDate>Mon, 24 Jan 2022 11:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/categories/tendances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tests utilisateurs</title>
+      <link>https://demo.gethugothemes.com/techfeed/categories/tests-utilisateurs/</link>
+      <pubDate>Sun, 23 Jan 2022 15:06:41 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/categories/tests-utilisateurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expériences</title>
+      <link>https://demo.gethugothemes.com/techfeed/categories/exp%C3%A9riences/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:01 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/categories/exp%C3%A9riences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prototyping</title>
+      <link>https://demo.gethugothemes.com/techfeed/categories/prototyping/</link>
+      <pubDate>Wed, 14 Jul 2021 15:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/categories/prototyping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

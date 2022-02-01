@@ -1,0 +1,52 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+# logo
+logo = "images/logo.png"
+# use `x` with logo_width, example: "100x"
+logo_width = "150px"
+# logo text will only show when logo is missing.
+logo_text = "TechFeed"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "OphelieBaur"
+image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+# main sections
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright text
+copyright = "Designed & Developed by [GetHugoThemes](https://gethugothemes.com)"
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= "" 
+
+# author
+[author_block]
+title= "Ophélie Baur"
+image= "images/author.jpg"
+content= "Ce blog est destiné à ma veille technologique sur le domaine des concpetions d'interfaces."
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+############################# social site ########################
+[[social]]
+icon = "fab fa-facebook-f"
+link = "https://www.facebook.com/ophelie.baur.3"
+
+[[social]]
+icon = "fab fa-instagram"
+link = "https://www.instagram.com/_opheliebaur_/"
+
+[[social]]
+icon = "fab fa-linkedin"
+link = "https://www.linkedin.com/in/oph%C3%A9lie-baur-37152416a/"

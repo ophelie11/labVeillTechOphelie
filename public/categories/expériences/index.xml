@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expériences on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/categories/exp%C3%A9riences/</link>
+    <description>Recent content in Expériences on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 15:41:01 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/categories/exp%C3%A9riences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Figma VS Penpot</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post5/</link>
+      <pubDate>Thu, 15 Jul 2021 15:41:01 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post5/</guid>
+      <description>Cet article est un peu différent des autres, car ce n&amp;rsquo;est pas le résumé d&amp;rsquo;un article que j&amp;rsquo;ai pu lire mais plutôt le rapport d&amp;rsquo;une expérience réalisée dans le domaine des confections d&amp;rsquo;interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Femke van Schoonhoven – whiteboarding challenge</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post4/</link>
+      <pubDate>Thu, 15 Jul 2021 15:40:55 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post4/</guid>
+      <description>Cette vidéo nous parle du whiteboarding UX challenge comment Femke approche ces derniers. Dans sa vidéo, elle nous parle des étapes par lesquelles passer. J’ai décidé de résumer les points qui me semblaient les plus importants afin de pouvoir les garder facilement sous la main.</description>
+    </item>
+    
+  </channel>
+</rss>

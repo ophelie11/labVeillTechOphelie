@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prototyping on Techfeed</title>
+    <link>https://demo.gethugothemes.com/techfeed/categories/prototyping/</link>
+    <description>Recent content in Prototyping on Techfeed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2021 15:06:48 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/techfeed/categories/prototyping/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just in mind – The ultimate guide to prototyping</title>
+      <link>https://demo.gethugothemes.com/techfeed/blog/post3/</link>
+      <pubDate>Wed, 14 Jul 2021 15:06:48 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/techfeed/blog/post3/</guid>
+      <description>Cet article nous détaille en plusieurs chapitres, le processus de prototyping, ces différentes formes, les choses à effectuer en amont et quelques outils. Il nous donne également des exemples afin de rendre le guide encore plus intéressant.</description>
+    </item>
+    
+  </channel>
+</rss>
